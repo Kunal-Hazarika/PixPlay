@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "175585872094",
+    "project_id": "pixplay-7848b",
+    "storage_bucket": "pixplay-7848b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175585872094:android:5e94c8dd0deeb329c25a4f",
+        "android_client_info": {
+          "package_name": "com.example.pixplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175585872094-js7mbjkbo565pdbg1bt9f0rsve7aft7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyecuZN6JfYg7YNF4xPJUeOBj_WzldbhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175585872094-js7mbjkbo565pdbg1bt9f0rsve7aft7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
